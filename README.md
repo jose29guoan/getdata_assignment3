@@ -18,4 +18,16 @@ std: Standard deviation
 
 Those keywords may help us to know the meaning of the variables. I didn’t write introductions one by one because I really don’t know how I should articulate them.
 
-Finally, wish you have a pleasant day,(P.S. Summer in Qinghai, China is extremely enjoyable, I promise.)
+Finally, wish you have a pleasant day.
+
+
+
+
+
+
+
+
+
+
+
+(P.S. Summer in Qinghai, China is extremely enjoyable, I promise.)

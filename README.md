@@ -30,4 +30,4 @@ Finally, wish you have a pleasant day.
 
 
 
-(P.S. Summer in Qinghai, China is extremely enjoyable, I promise.)
+(P.S. Summer in Qinghai, China is extremely enjoyable.)
